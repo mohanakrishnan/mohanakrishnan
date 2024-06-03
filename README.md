@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mohanakrishnan
 - 👀 I’m interested in ...Programming
-- 🌱 I’m currently learning ...Python,Microservices,Arduino
+- 🌱 I’m currently learning ...Microservices,Spring Boot
 - 💞️ I’m looking to collaborate on ...any tech
 - 📫 How to reach me ...
 
